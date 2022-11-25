@@ -13,7 +13,7 @@ UPPRECASE
 
 ![Это яблоко](c25c94fe96_1000.jpg)
 
-Это апельсин
+Это апельсин. This orange
 
 ![Это апельсин](6XZSr6ddCl6cxfo0UchP.jpg)
 
