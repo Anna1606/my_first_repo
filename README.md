@@ -9,6 +9,6 @@ Browser bad text
 UPPRECASE
 
 ## Картинки
-Это яблоко
+Это яблоко. This apple
 
 ![Это яблоко](c25c94fe96_1000.jpg)
